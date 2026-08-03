@@ -143,6 +143,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Meghana - [GitHub](https://github.com/sivapallavi18)
+Siva Pallavi - [GitHub](https://github.com/sivapallavi18)
 
 Project Link: [https://github.com/Meghana-564/Quickeats-mern](https://github.com/sivapallavi18/QuickEats)
